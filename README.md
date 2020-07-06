@@ -1,2 +1,2 @@
 # MIT Web Application for faculty
-Website for a faculty to provide updates to students like events, timtable, forums, etc.
+A project done by the students of MIT-WPU for the faculty and students of MIT-WPU. The application is developed for the ease of students. It is developed for providing information about all the events, activities etc. This is a website connected to the application which will be accessible only to the faculty members. The website will allow the faculty and the authorized members to upload the respective information and updates when and wherever necessary.
